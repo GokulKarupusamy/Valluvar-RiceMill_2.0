@@ -3789,8 +3789,12 @@ h5{
 #gallery-modal .modal-img{
     width: 100%;
 }
-
+/* Carousel styling */
+.container{
+    width: 100%;
+    position: relative;
+}
 
 /* ======= The End ======= */
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map */ 
